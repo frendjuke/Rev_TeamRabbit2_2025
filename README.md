@@ -33,6 +33,6 @@ Revised maps with the following principles:
 
 Move or extract .vl2 (paths on) to Tribes2/GameData/base directory
 
-To enjoy TR2, we recommend trying the QuickStart tutorials https://www.youtube.com/playlist?list=PL-7GIKyxogQ4M3OynmlIy6XykJPYXIfRd
+To enjoy TR2, we recommend trying the JumpStart tutorials https://www.youtube.com/playlist?list=PL-7GIKyxogQ4M3OynmlIy6XykJPYXIfRd
 
 To host a TR2 server you will need [serverfilesherewillupdatelater:)]

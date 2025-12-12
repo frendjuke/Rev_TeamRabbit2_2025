@@ -2,10 +2,25 @@ Revised TR2 Map pack 2025
 Consolidated best TR2 maps into one pack with all required assets.
 
 Standard:
-[fill later]
+Rev_Basin
+Rev_Drifter
+Rev_Fiasco
+Rev_Final
+Rev_Hillside
+Rev_Nightmare
+Rev_PirateBay
+Rev_Stripmine
+Rev_Summit
+Rev_Surreal
+Rev_Tomb
+Rev_Tropico
+Rev_VerySkinny
 
 Soccer:
-[fill later]
+Galaxy
+HillSoccer
+SimpleSoccer
+SoccerField
 
 Revised maps with the following principles:
 - No editing terrain from old packs.
@@ -16,8 +31,8 @@ Revised maps with the following principles:
 -- Add visual markers for the OOB grids
 -- Pull mission area inwards to speed up play and avoid "dead zones" where making plays is too difficult
 
-Install, move or extract .vl2 (paths on) to Tribes2/GameData/base
+Move or extract .vl2 (paths on) to Tribes2/GameData/base directory
 
-To enjoy TR2, we recommend trying the QuickStart tutorials [link]
+To enjoy TR2, we recommend trying the QuickStart tutorials https://www.youtube.com/playlist?list=PL-7GIKyxogQ4M3OynmlIy6XykJPYXIfRd
 
-To host a TR2 server you will need [serverfileshere]
+To host a TR2 server you will need [serverfilesherewillupdatelater:)]

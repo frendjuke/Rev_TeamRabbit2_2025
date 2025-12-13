@@ -35,4 +35,6 @@ Move or extract .vl2 (paths on) to Tribes2/GameData/base directory
 
 To enjoy TR2, we recommend trying the JumpStart tutorials https://www.youtube.com/playlist?list=PL-7GIKyxogQ4M3OynmlIy6XykJPYXIfRd
 
+Join us in the official TR2 discord https://discord.gg/63gEqT7xeb
+
 To host a TR2 server you will need [serverfilesherewillupdatelater:)]

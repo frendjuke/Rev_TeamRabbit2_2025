@@ -30,7 +30,7 @@ Revised maps with the following principles:
 -- Add visual markers for the OOB grids
 -- Pull mission area inwards to speed up play and avoid "dead zones" where making plays is too difficult
 
-Move or extract .vl2 (paths on) to Tribes2/GameData/base directory
+Extract (paths on) to Tribes2/GameData/base directory
 
 To enjoy TR2, we recommend trying the JumpStart tutorials https://www.youtube.com/playlist?list=PL-7GIKyxogQ4M3OynmlIy6XykJPYXIfRd
 
